@@ -1,2 +1,4 @@
-# bevy_demo_2048
-Game 2048 by rust-bevy
+# bevy 2048
+fork of bevy demo, with fixed code styling
+
+for educational purposes only
